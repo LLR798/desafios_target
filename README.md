@@ -19,7 +19,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 ### Resposta:
 91
 
-<a href="https://github.com/LLR798/desafios_target/blob/main/target/codigos/soma.py">
+<a href="https://github.com/LLR798/desafios_target/blob/main/codigos/soma.py">
   Código
 </a>
 
@@ -29,7 +29,7 @@ IMPORTANTE:
 
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-<a href="https://github.com/LLR798/desafios_target/blob/main/target/codigos/fibonacci.py">
+<a href="https://github.com/LLR798/desafios_target/blob/main/codigos/fibonacci.py">
   Código
 </a>
 
@@ -68,6 +68,6 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-<a href="https://github.com/LLR798/desafios_target/blob/main/target/codigos/inversor_de_string.py">
+<a href="https://github.com/LLR798/desafios_target/blob/main/codigos/inversor_de_string.py">
   Código
 </a>
